@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "957462135143",
+    "firebase_url": "https://uberclone-43edf-default-rtdb.firebaseio.com",
+    "project_id": "uberclone-43edf",
+    "storage_bucket": "uberclone-43edf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957462135143:android:1f8f366601b13ca3f5efc2",
+        "android_client_info": {
+          "package_name": "bukenya.lukman.rider_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957462135143-483islfa7tf1peld6a4qinmpvdlb8i61.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "bukenya.lukman.rider_app",
+            "certificate_hash": "33d3cbb33f3975e8d2f67113802a5cacf58220d6"
+          }
+        },
+        {
+          "client_id": "957462135143-8fm3shupt4ekl2dcu44kn2bdm97576mg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZjoH4ilxtb_XOXxRYA56RlGyQb_xl8x8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957462135143-8fm3shupt4ekl2dcu44kn2bdm97576mg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
